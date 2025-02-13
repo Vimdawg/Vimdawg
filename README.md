@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-# I'm currently studiying software engineering
-# Im 19 years old
-# Marketing team for Asia Pacific University Blockchain & Cryptocurrency Club
+### I'm currently studiying software engineering
+### Im 19 years old
+### Marketing team for Asia Pacific University Blockchain & Cryptocurrency Club
 
 <!--
 **Vimdawg/Vimdawg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
